@@ -1,0 +1,19 @@
+
+
+/* cell 색상 */
+.rg-data-cell.editable-false {background-color:#e3e3e3;}
+
+/* text 정렬 */
+.rg-rowindicator-cell
+, .rg-checkbar-cell
+, .rg-header-cell
+, .rg-head-cell
+, .rg-footer-cell {vertical-align:middle;}
+
+.rg-data-cell {vertical-align:middle;}
+
+.rg-data-cell.align-right {text-align:right;}
+.rg-data-cell.align-center {text-align:center;}
+
+.rg-footer-cell.align-right {text-align:right;}
+.rg-footer-cell.align-center {text-align:center;}
